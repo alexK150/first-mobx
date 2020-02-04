@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5da7fc4-c2af-45de-a941-14c871958c48" name="Default Changelist" comment="" />
+    <list default="true" id="b5da7fc4-c2af-45de-a941-14c871958c48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +44,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="npm.eject">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -81,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580806927225</updated>
-      <workItem from="1580806938657" duration="596000" />
+      <workItem from="1580806938657" duration="1814000" />
     </task>
     <servers />
   </component>
@@ -89,21 +104,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="659" height="176" key="GridCell.Tab.0.bottom" timestamp="1580807864992">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580808988512">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580807864992" />
-    <state width="659" height="176" key="GridCell.Tab.0.center" timestamp="1580807864991">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580808988512" />
+    <state x="560" y="258" width="260" height="212" key="Github.ShareDialog" timestamp="1580808952899">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580807864991" />
-    <state width="659" height="176" key="GridCell.Tab.0.left" timestamp="1580807864991">
+    <state x="560" y="258" width="260" height="212" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1580808952899" />
+    <state width="659" height="176" key="GridCell.Tab.0.bottom" timestamp="1580808257384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580807864991" />
-    <state width="659" height="176" key="GridCell.Tab.0.right" timestamp="1580807864991">
+    <state width="659" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580808257384" />
+    <state width="659" height="176" key="GridCell.Tab.0.center" timestamp="1580808257384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580807864991" />
+    <state width="659" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580808257384" />
+    <state width="659" height="176" key="GridCell.Tab.0.left" timestamp="1580808257384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580808257384" />
+    <state width="659" height="176" key="GridCell.Tab.0.right" timestamp="1580808257384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580808257384" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1580809030044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580809030044" />
   </component>
 </project>
